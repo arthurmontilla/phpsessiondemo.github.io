@@ -1,0 +1,13 @@
+body {
+	background-image: url('https://c4.wallpaperflare.com/wallpaper/284/891/651/beautiful-nature-high-resolution-1920x1200-wallpaper-thumb.jpg');
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+ 	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+	font-family: sans-serif;
+}
+
